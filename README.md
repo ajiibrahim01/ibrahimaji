@@ -1,2 +1,2 @@
 # Hello Everyone
-My name is **Ibrahim Aji **.\
+My name is Ibrahim Aji
